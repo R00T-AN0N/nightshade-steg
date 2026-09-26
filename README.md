@@ -48,6 +48,3 @@ npm run preview
 
 Then open `http://localhost:4173`.
 
-## Wasmer
-
-The repository includes `wasmer.toml`, `Staticfile`, `app.yaml.example`, and static-server settings. Deploy the contents of `dist/` using your Wasmer Edge static-site workflow.
