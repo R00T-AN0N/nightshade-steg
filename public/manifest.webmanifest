@@ -1,0 +1,9 @@
+{
+  "name": "Nightshade Steg",
+  "short_name": "Nightshade",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b0f",
+  "theme_color": "#07100c",
+  "description": "Client-side encrypted steganography with image LSB and binary append modes."
+}

@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: nightshade-steg
+owner: YOUR_WASMER_USER
+package: YOUR_WASMER_USER/nightshade-steg

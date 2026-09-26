@@ -1,0 +1,11 @@
+[general]
+root = "dist"
+page-fallback = "/index.html"
+
+[[headers]]
+source = "/*"
+[headers.values]
+Cache-Control = "public, max-age=3600"
+X-Content-Type-Options = "nosniff"
+Referrer-Policy = "no-referrer"
+Permissions-Policy = "camera=(), microphone=(), geolocation=()"
