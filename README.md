@@ -1,5 +1,7 @@
 # Nightshade Steg
 
+<img src="steg.png">
+
 A browser-first encrypted steganography application designed for static hosting (including Wasmer Edge). Files are processed locally in the browser; there is no application backend.
 
 ## Included
